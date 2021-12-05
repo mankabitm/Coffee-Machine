@@ -1,4 +1,4 @@
-#Desired features:
+# Desired features:
 1. It will be serving some beverages.
 2. Each beverage will be made using some ingredients.
 3. Assume time to prepare a beverage is the same for all cases.
@@ -9,7 +9,7 @@
 7. Any beverage can be served only if all the ingredients are available in terms of quantity.
 8. There would be an indicator that would show which all ingredients are running low. We need
    some methods to refill them.
-9. Please provide functional integration test cases for maximum coverage.
+9. Functional integration test cases for maximum coverage.
 
 # Steps to build and test
 Coffee Machine
